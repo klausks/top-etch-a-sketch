@@ -20,3 +20,13 @@ body {
 .hovered {
     background-color: #cc2727;
 }
+
+.reset-grid {
+    width: 7%;
+    position: fixed;
+    font-size: large;
+    padding: 10px;
+    border-radius: 10px;
+    left: 43%;
+    top: 1rem;
+}
